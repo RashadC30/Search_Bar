@@ -1,0 +1,14 @@
+{
+  "name": "search-bar",
+  "version": "1.0.0",
+  "description": "Search Bar",
+  "main": "bar.js",
+  "scripts": {
+    "start": "node bar.js"
+  },
+  "author": "Rashad Clement",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^18.11.0"
+  }
+}
